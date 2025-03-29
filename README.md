@@ -25,3 +25,8 @@ emission reductions
 To be estimated during verification
 [An ex-ante estimate is 3942 CoUs per year]
 ____________
+The project location is situated at Vankiya site Village Babra Taluka Amreli, Amreli district in the state
+of Gujarat. The project site is well connected by district and village roads to the nearest town.
+
+The geographic coordinates of the project locations are
+Lat: 21°58'37.5"N / Long: 71°19'04.7"E
